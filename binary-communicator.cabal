@@ -1,6 +1,6 @@
 Name:           binary-communicator
 Description:    Simple datatype that makes easier to send and receive values in any MonadIO. Inspired by Gregory Crosswhite's 'binary-protocol' package.
-Version:        1.0.2.1
+Version:        1.0.2.2
 Category:       Data
 Cabal-Version:  >= 1.6
 License:        BSD3
