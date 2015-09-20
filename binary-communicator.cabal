@@ -12,7 +12,7 @@ Build-Type:     Simple
 
 source-repository head
   type:     git
-  location: git://github.com/YwenSubrosian/BinaryCommunicator.git
+  location: https://github.com/YPares/BinaryCommunicator.git
 
 Library
   Build-Depends:    base == 4.*,
